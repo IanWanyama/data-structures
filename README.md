@@ -19,18 +19,6 @@
 
 ---
 
-## Task Requirements
-
-The assignment required us to:
-
-- Study **Data Structure Classification** from Notes 2 on VLMS  
-- Write code to represent each **data structure classification and type**  
-- Research where different data structures are applied and explain why  
-- Give examples of applications that use specific data structures and algorithms  
-- Explain how data structures and algorithms work within computer systems  
-- Upload all codes to GitHub as a group  
-
----
 
 ## Data Structure Classification Covered
 
