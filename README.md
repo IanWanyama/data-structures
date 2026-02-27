@@ -16,7 +16,7 @@
 | Elias Muchira Karimi | BSCCS/2025/40695 |
 | Brian Chege          | BSCCS/2025/45559 |
 | Ian Wanyama          | BSCCS/2025/39198 |
-| Margaret Waithera          | BSCCS/2025/50507 |
+| Margaret Waithera          | BSCCS/2025/40507 |
 
 ---
 
